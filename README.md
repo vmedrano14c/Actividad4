@@ -9,4 +9,6 @@ Ejercicios de Programación Orientada a Objetos con Java y UML – Leonardo Berm
 3. Ejercicio 4.7 Clases Abstractas – inicia en página 244
 4. Ejercicio 4.8 Métodos abstractos – inicia en página 255
 5. Ejercicio 8.1 – Inicia en página 467
-### Entregable:  Archivo PDF con códigos fuente, diagrama de objetos, diagramas de clase, diagrama de casos de uso, url de video de cada programa funcionado y URL de repositorio en Github de cada ejercicio 
+
+### Entregable: 
+Archivo PDF con códigos fuente, diagrama de objetos, diagramas de clase, diagrama de casos de uso, url de video de cada programa funcionado y URL de repositorio en Github de cada ejercicio 

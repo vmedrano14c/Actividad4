@@ -1,4 +1,4 @@
-package Herencia;
+package herencia;
 
 public class Cuenta {
 
